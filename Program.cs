@@ -108,7 +108,7 @@ namespace Scaffold
              .ToList();
                 foreach (var player in realMadridPlayers)
                 {
-                    Console.WriteLine($"Player ID: {player.PlayerId}, Name: {player.PlayerName}");
+                    Console.WriteLine($"Playerrrr ID: {player.PlayerId}, Name: {player.PlayerName}");
                     Console.WriteLine("hey hey hey");
                 }
             }
